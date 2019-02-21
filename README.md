@@ -77,7 +77,7 @@ Nooner, K. B., Colcombe, S. J., Tobe, R. H., Mennes, M., Benedict, M. M., Moreno
 Ward, B. D., 2000. Simultaneous inference for FMRI data. Retrieved from http://stuff.mit.edu/afs/sipb.mit.edu/project/seven/doc/ AFNI/AlphaSim.ps
 
 ## Citation:
-Feel free to use the code for your analyses. Citating Hilger & Fiebach (2018) as well as this github repository (link) is necessarily required.
+Feel free to use the code for your analyses. Citating Hilger & Fiebach (2018) as well as this github repository (http://doi.org/10.5281/zenodo.2574588) is necessarily required.
 
 Hilger, K., & Fiebach, C., J. (2018). ADHD Symptoms are Associated with the Modular Structure of Intrinsic Brain Networks in a Representative Sample of Healthy Adults. bioRxiv, 505891. doi: https://doi.org/10.1101/505891
 
