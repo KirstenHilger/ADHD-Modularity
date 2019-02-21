@@ -1,0 +1,1 @@
+/mnt/flab/kirsten/IQ_Connect/scripts/Rockland_Sample_2 /mnt/flab/kirsten/IQ_Connect/scripts/Rockland_Subjects_18_30.txt 0 259 260 2.5

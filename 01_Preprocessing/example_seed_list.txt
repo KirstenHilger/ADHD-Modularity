@@ -1,0 +1,2 @@
+/home/my_seeds/seed1.nii.gz
+/home/my_seeds/seed2.nii.gz
